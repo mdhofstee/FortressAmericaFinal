@@ -6,5 +6,5 @@ package edu.gvsu.cis350;
  *
  */
 public class Map {
-	
+	public Territory WestIZ01;
 }
